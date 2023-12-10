@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\proyecto beca\Visor de imagen\bin\Debug\Visor de imagen.exe.config
+C:\Users\Usuario\Desktop\proyecto beca\Visor de imagen\bin\Debug\Visor de imagen.exe
+C:\Users\Usuario\Desktop\proyecto beca\Visor de imagen\bin\Debug\Visor de imagen.pdb
+C:\Users\Usuario\Desktop\proyecto beca\Visor de imagen\obj\Debug\Visor de imagen.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\proyecto beca\Visor de imagen\obj\Debug\Visor_de_imagen.Visordeimagenes.resources
+C:\Users\Usuario\Desktop\proyecto beca\Visor de imagen\obj\Debug\Visor_de_imagen.Properties.Resources.resources
+C:\Users\Usuario\Desktop\proyecto beca\Visor de imagen\obj\Debug\Visor de imagen.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\proyecto beca\Visor de imagen\obj\Debug\Visor de imagen.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyecto beca\Visor de imagen\obj\Debug\Visor de imagen.exe
+C:\Users\Usuario\Desktop\proyecto beca\Visor de imagen\obj\Debug\Visor de imagen.pdb
